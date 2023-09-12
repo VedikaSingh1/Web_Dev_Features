@@ -1,0 +1,30 @@
+/*specifications of body*/
+body{
+color:#000;
+font-family:"Times New Roman",Times,Serif;
+font-size:large;
+}
+/*specifications of table*/
+table{
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border-collapse:collapse;
+table-layout:fixed;
+text-align:center;
+}
+/*specifications of cells*/
+td{
+vertical-align:center;
+padding:5px;
+word-wrap:break-word;
+}
+/*Ids and classes*/
+#fullpage{
+margin:100px;
+}
+.Button{
+margin:auto;
+text-align:center;
+width:50px;
+}

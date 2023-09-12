@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Evergreen Movies </title>
+<script type="text/javascript" src="MyJavaScript.js"></script>
+</head>
+<body>
+<H1 style="color:blue;"> Do you love watching movies ? Think you've seen it all ? Tick the movies you've seen below :<H1>
+<input id="name" type="text">
+<button onclick="displayInput();">Color It</button>
+<p id="para" style="color:blue;"></p>
+<table border="1" style="border:solid;" color="border:Red;">
+<tr>
+<td>Tick the option</td><td>Movie Name</td><td>Movie poster</td><td>Rating</td>
+</tr>
+</table>
+</body>
+</html>
